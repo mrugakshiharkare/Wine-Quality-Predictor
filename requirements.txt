@@ -1,8 +1,7 @@
-## Requirements for running the project! 
-1. streamlit
-2. pandas
-3. numpy
-4. matplotlib
-5. seaborn
-6. scikit-learn
-7. joblib
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
