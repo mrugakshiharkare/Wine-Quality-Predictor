@@ -31,8 +31,6 @@ To ensure the model is robust and reliable, I evaluated it using industry-standa
 
 ### 🛠️ Environment Setup & Execution
 Follow these steps to run the interactive Streamlit dashboard on your local machine:
-
-```bash
 # 1. Clone the repository
 git clone [https://github.com/mrugakshiharkare/Wine-Quality-Predictor.git](https://github.com/mrugakshiharkare/Wine-Quality-Predictor.git)
 cd Wine-Quality-Predictor
