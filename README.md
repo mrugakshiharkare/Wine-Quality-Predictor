@@ -20,10 +20,10 @@ To ensure the model is robust and reliable, I evaluated it using industry-standa
 | Metric | Score | Business Significance |
 | :--- | :--- | :--- |
 | **Accuracy** | **88.5%** | High overall reliability for batch classification. |
-| **AUC-ROC** | **0.91** | Excellent ability to distinguish between quality classes. |
-| **Precision** | **0.79** | Low False Positive rate (Protects Brand Reputation). |
-| **Recall** | **0.82** | High ability to capture true high-quality samples. |
-| **F1-Score** | **0.80** | Balanced harmonic mean of Precision and Recall. |
+| **AUC-ROC** | **91.2%** | Excellent ability to distinguish between quality classes. |
+| **Precision** | **79.3%** | Low False Positive rate (Protects Brand Reputation). |
+| **Recall** | **56.4%** | High ability to capture true high-quality samples. |
+| **F1-Score** | **65.9%** | Balanced harmonic mean of Precision and Recall. |
 
 > **💡 Key Insight:** Feature Importance analysis revealed that **Alcohol Content** and **Sulphates** are the primary drivers of quality perception in this dataset, while **Volatile Acidity** shows a strong inverse correlation with quality.
 
