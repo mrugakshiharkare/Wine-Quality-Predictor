@@ -46,9 +46,9 @@ Quality Engineers: Reduce manual testing time by 80% via automated pre-screening
 Consumers: Guaranteed consistency in every bottle purchased.
 
 🛤️ Roadmap
-- [ ] Implement Hyperparameter Tuning (GridSearchCV) to further boost F1-Score.
-- [ ] Add "Region-based" pricing logic for global winery support.
-- [ ] Integration with IoT sensors for real-time fermentation monitoring.
+[ ] Implement Hyperparameter Tuning (GridSearchCV) to further boost F1-Score.
+[ ] Add "Region-based" pricing logic for global winery support.
+[ ] Integration with IoT sensors for real-time fermentation monitoring.
 
 Deployment: Streamlit
 
