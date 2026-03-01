@@ -1,6 +1,6 @@
 ### 🚀 Live Demo: https://wine-quality-predictor-jenycbgxnr5obxamxspukb.streamlit.app/
 
-# 🍷 TrueTaste: AI-Powered Wine Quality Predictor
+# 🍷 TrueTaste: AI Wine Grader
 > **A Machine Learning solution for objective quality assessment and chemical analysis.**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
