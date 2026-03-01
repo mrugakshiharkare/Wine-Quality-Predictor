@@ -34,7 +34,7 @@ This project introduces a Digital Sommelier. By analyzing the chemical "DNA" of 
 - Techniques: SMOTE, Feature Importance, Bivariate/Univariate Analysis
 
 ### 🏗️ Installation & Setup
-1. Clone the repository: git clone https://github.com/your-username/wine-quality-ai.git
+1. Clone the repository: git clone https://github.com/mrugakshiharkare/Wine-Quality-Predictor
 2. Install dependencies: pip install -r requirements.txt
 3. Run the app: streamlit run app.py
 
