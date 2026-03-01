@@ -9,12 +9,12 @@
 
 ---
 
-### 📖 Project Overview
+## 📖 Project Overview
 Determining wine quality is traditionally a subjective process prone to human error. This project leverages **Random Forest Classification** to provide a data-driven alternative. By analyzing 11 chemical features (Acidity, Residual Sugar, Chlorides, Alcohol, etc.), the model identifies the "Chemical DNA" that defines a "High Quality" wine.
 
 ---
 
-### 📊 Model Performance & Evaluation
+## 📊 Model Performance & Evaluation
 To ensure the model is robust and reliable, I evaluated it using industry-standard classification metrics. 
 
 | Metric | Score | Business Significance |
@@ -29,23 +29,23 @@ To ensure the model is robust and reliable, I evaluated it using industry-standa
 
 ---
 
-### 🛠️ Environment Setup & Execution
+## 🛠️ Environment Setup & Execution
 Follow these steps to run the interactive Streamlit dashboard on your local machine:
-# 1. Clone the repository
+1. Clone the repository
 git clone [https://github.com/mrugakshiharkare/Wine-Quality-Predictor.git](https://github.com/mrugakshiharkare/Wine-Quality-Predictor.git)
 cd Wine-Quality-Predictor
 
-# 2. Setup Virtual Environment
+2. Setup Virtual Environment
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
-# 3. Install Dependencies
+3. Install Dependencies
 pip install -r requirements.txt
 
-# 4. Launch the AI Sommelier
+4. Launch the AI Sommelier
 streamlit run app.py
 
-### 🚀 Future Roadmap & Improvements
+## 🚀 Future Roadmap & Improvements
 I am currently scaling this project from a "Predictor" to an "Enterprise Solution" through the following phases:
 
 #### 🟢 Phase 1: Model Optimization
@@ -62,7 +62,7 @@ I am currently scaling this project from a "Predictor" to an "Enterprise Solutio
 
 ---
 
-### 🤝 Let's Connect!
+## 🤝 Let's Connect!
 I am actively looking for **Data Analyst and Machine Learning** opportunities where I can apply my analytical skills to solve real-world problems.
 
 <p align="left">
