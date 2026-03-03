@@ -32,17 +32,17 @@ To ensure the model is robust and reliable, I evaluated it using industry-standa
 ## 🛠️ Environment Setup & Execution
 Follow these steps to run the interactive Streamlit dashboard on your local machine:
 1. Clone the repository
-git clone [https://github.com/mrugakshiharkare/Wine-Quality-Predictor.git](https://github.com/mrugakshiharkare/Wine-Quality-Predictor.git)
+git clone [https://github.com/mrugakshiharkare/Wine-Quality-Predictor.git](https://github.com/mrugakshiharkare/Wine-Quality-Predictor.git)  
 cd Wine-Quality-Predictor
 
-2. Setup Virtual Environment
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+2. Setup Virtual Environment  
+python -m venv venv  
+source venv/bin/activate  # Windows: venv\Scripts\activate  
 
-3. Install Dependencies
+3. Install Dependencies  
 pip install -r requirements.txt
 
-4. Launch the AI Sommelier
+4. Launch the AI Sommelier  
 streamlit run app.py
 
 ## 🚀 Future Roadmap & Improvements
